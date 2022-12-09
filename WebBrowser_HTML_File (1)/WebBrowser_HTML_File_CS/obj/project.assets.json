@@ -1398,11 +1398,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\VimeoVsvEntityFrameworkAddition\\VimeoVsvEntityFrameworkAddition\\WebBrowser_HTML_File (1)\\WebBrowser_HTML_File_CS\\WebBrowser_HTML_File_CS.csproj",
+      "projectUniqueName": "C:\\Users\\DANISH\\Desktop\\Smoke Shop Vimeo\\SmokeShopVimeo\\WebBrowser_HTML_File (1)\\WebBrowser_HTML_File_CS\\WebBrowser_HTML_File_CS.csproj",
       "projectName": "WebBrowser_HTML_File_CS",
-      "projectPath": "C:\\code\\VimeoVsvEntityFrameworkAddition\\VimeoVsvEntityFrameworkAddition\\WebBrowser_HTML_File (1)\\WebBrowser_HTML_File_CS\\WebBrowser_HTML_File_CS.csproj",
+      "projectPath": "C:\\Users\\DANISH\\Desktop\\Smoke Shop Vimeo\\SmokeShopVimeo\\WebBrowser_HTML_File (1)\\WebBrowser_HTML_File_CS\\WebBrowser_HTML_File_CS.csproj",
       "packagesPath": "C:\\Users\\DANISH\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\VimeoVsvEntityFrameworkAddition\\VimeoVsvEntityFrameworkAddition\\WebBrowser_HTML_File (1)\\WebBrowser_HTML_File_CS\\obj\\",
+      "outputPath": "C:\\Users\\DANISH\\Desktop\\Smoke Shop Vimeo\\SmokeShopVimeo\\WebBrowser_HTML_File (1)\\WebBrowser_HTML_File_CS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

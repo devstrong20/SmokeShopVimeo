@@ -17,7 +17,7 @@
     <IsWebBootstrapper>true</IsWebBootstrapper>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <PublishUrl>C:\code\VimeoVsvEntityFrameworkAddition\VimeoVsvEntityFrameworkAddition\published\</PublishUrl>
+    <PublishUrl>C:\Users\DANISH\Desktop\Smoke Shop Vimeo\SmokeShopVimeo\published\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -27,7 +27,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://raw.githubusercontent.com/toheedafzaal/VimeoVSVApp/main/published/</InstallUrl>
+    <InstallUrl>https://raw.githubusercontent.com/devstrong20/SmokeShopVimeo/main/published/</InstallUrl>
     <UpdateUrl>https://raw.githubusercontent.com/toheedafzaal/VimeoVSVApp/main/published/</UpdateUrl>
     <SupportUrl>https://www.panacealogics.com/</SupportUrl>
     <ErrorReportUrl>https://www.panacealogics.com/</ErrorReportUrl>
@@ -36,7 +36,7 @@
     <SuiteName>Toheed Afzaal</SuiteName>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>27</ApplicationRevision>
+    <ApplicationRevision>28</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>

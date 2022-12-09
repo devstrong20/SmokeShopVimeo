@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8d243m/k+b87CaSIFaPW8s7KTi12lNaKRyEexv6zmbv+Dj1kZKdaJdYwCyEh0mwjGKNHFx6sciY5AbzzpWPRXA==",
+  "dgSpecHash": "lTjBsBgIW25tv3LxbjQmgNSzrvZkjv6akcqiY+wuO83t4ifuORUqEmX1nT+Oprk1RgTKTdcq10Qx3MzUS4S0Rw==",
   "success": true,
-  "projectFilePath": "C:\\code\\VimeoVsvEntityFrameworkAddition\\VimeoVsvEntityFrameworkAddition\\WebBrowser_HTML_File (1)\\WebBrowser_HTML_File_CS\\WebBrowser_HTML_File_CS.csproj",
+  "projectFilePath": "C:\\Users\\DANISH\\Desktop\\Smoke Shop Vimeo\\SmokeShopVimeo\\WebBrowser_HTML_File (1)\\WebBrowser_HTML_File_CS\\WebBrowser_HTML_File_CS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANISH\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\DANISH\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
