@@ -377,6 +377,7 @@ namespace WebBrowser_HTML_File_CS
             this.Close();
             NewDateScreen newDateScreen = new NewDateScreen();
             newDateScreen.Show();
+            //updated
         }
 
         private void webBrowser2_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
