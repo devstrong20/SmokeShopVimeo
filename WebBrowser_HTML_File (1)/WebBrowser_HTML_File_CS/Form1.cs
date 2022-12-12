@@ -30,6 +30,7 @@ namespace WebBrowser_HTML_File_CS
     [ComVisibleAttribute(true)]
     public partial class Form1 : Form
     {
+        
         private readonly pubsEntities2 pubsEntities = new pubsEntities2();
         HttpClient httpClient = new HttpClient();
         Random rnd = new Random();
