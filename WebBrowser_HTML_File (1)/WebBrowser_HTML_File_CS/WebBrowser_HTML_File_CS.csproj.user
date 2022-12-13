@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <PublishUrlHistory>C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\16 Jun 2022 Vimeo Vsv Deployement\published\|publish\</PublishUrlHistory>
-    <InstallUrlHistory>https://raw.githubusercontent.com/toheedafzaal/VimeoVSVApp/main/published/</InstallUrlHistory>
+    <PublishUrlHistory>C:\Users\DANISH\Desktop\Smoke Shop Vimeo\SmokeShopVimeo\published\|C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\16 Jun 2022 Vimeo Vsv Deployement\published\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>https://raw.githubusercontent.com/devstrong20/SmokeShopVimeo/main/published/|https://raw.githubusercontent.com/toheedafzaal/VimeoVSVApp/main/published/</InstallUrlHistory>
     <SupportUrlHistory>https://www.panacealogics.com/</SupportUrlHistory>
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />
